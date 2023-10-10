@@ -4,6 +4,7 @@ import Title from '../../components/book/title';
 import Create from '../../components/book/create';
 import Card from '../../components/book/card';
 // Style
+// .
 import '../../styles/screens/book.css';
 // services 
 import { getBookings } from '../../services/booking.service';
