@@ -1,0 +1,19 @@
+.book {
+  padding: 2em;
+  display: flex;
+  justify-content:center;
+  flex-direction: column;
+}
+
+.book >  .bookings {
+  height: 50vh;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap:1em;
+}
+.book > .buttons {
+  display: flex;
+  gap:1em;
+}

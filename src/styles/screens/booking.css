@@ -1,0 +1,14 @@
+.booking {
+  margin: 1em;
+}
+.booking >  .container {
+  display: flex;
+  flex-direction: column;
+  padding: 2em;
+}
+
+.booking .buttons {
+  display: flex;
+  gap:1em;
+  cursor: pointer;
+}
